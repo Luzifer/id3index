@@ -1,0 +1,63 @@
+{
+	"ImportPath": "github.com/Luzifer/id3index",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Luzifer/rconfig",
+			"Comment": "v1.2.0",
+			"Rev": "7aef1d393c1e2d0758901853b59981c7adc67c7e"
+		},
+		{
+			"ImportPath": "github.com/bogem/id3v2",
+			"Comment": "v0.11-2-g1e106de",
+			"Rev": "1e106de4ea1789a593dfc207470e844f7b911e0a"
+		},
+		{
+			"ImportPath": "github.com/bogem/id3v2/bspool",
+			"Comment": "v0.11-2-g1e106de",
+			"Rev": "1e106de4ea1789a593dfc207470e844f7b911e0a"
+		},
+		{
+			"ImportPath": "github.com/bogem/id3v2/bwpool",
+			"Comment": "v0.11-2-g1e106de",
+			"Rev": "1e106de4ea1789a593dfc207470e844f7b911e0a"
+		},
+		{
+			"ImportPath": "github.com/bogem/id3v2/lrpool",
+			"Comment": "v0.11-2-g1e106de",
+			"Rev": "1e106de4ea1789a593dfc207470e844f7b911e0a"
+		},
+		{
+			"ImportPath": "github.com/bogem/id3v2/rdpool",
+			"Comment": "v0.11-2-g1e106de",
+			"Rev": "1e106de4ea1789a593dfc207470e844f7b911e0a"
+		},
+		{
+			"ImportPath": "github.com/bogem/id3v2/util",
+			"Comment": "v0.11-2-g1e106de",
+			"Rev": "1e106de4ea1789a593dfc207470e844f7b911e0a"
+		},
+		{
+			"ImportPath": "github.com/sirupsen/logrus",
+			"Comment": "v1.0.0-4-g59d0ca4",
+			"Rev": "59d0ca41e5faad81cac03f7a7d84ba80d9cc9673"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Rev": "e57e3eeb33f795204c1ca35f56c44f83227c6e66"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "739734461d1c916b6c72a63d7efda2b27edb369f"
+		},
+		{
+			"ImportPath": "gopkg.in/validator.v2",
+			"Rev": "07ffaad256c8e957050ad83d6472eb97d785013d"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "25c4ec802a7d637f88d584ab26798e94ad14c13b"
+		}
+	]
+}
